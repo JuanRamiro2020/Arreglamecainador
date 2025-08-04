@@ -31,19 +31,30 @@ Primer prototipo
 Una idea inicial de donde se intentaria realizar una lectura muscular para con esa lectura generar una serie de promedios estadisticos para corregir la fuerza ejercida en el brazo durante la mecanica de tiro, una idea rechazada debido a la complejidad de los calculos del sensor y la incomodidad del dispositivo en el usuario por lo que se descarto este prototipo y se inicio la construccion del modelo de IA
 
 <img width="439" height="500" alt="image" src="https://github.com/user-attachments/assets/ae088fb3-5a34-455a-ad15-ff029bb74f62" />
-> Circuito del prototipo
+
+
+>Circuito del prototipo
 
 Segundo prototipo
 En esta etapa iniciamos la creacion de la aplicación en app inventor, un entorno de programacion diseñado para este tipo de actividades, en el avance del proyecto se tiene unas pantallas principales conectadas a partir de botones donde se puede navegar por la app, ademas de la inclusion y deteccion de la camara del celular en la pantalla “Practica” esto nos permitira conectar la aplicación con el modelo de uso Mediapipe para que se genere la captura de movimiento del cuerpo desde la camara del dispositivo y asi como paso siguiente crear los calculos de las lecturas de posicion para asi estipular las clases de cada una de las etapas de la mecanica del tiro y realizar las correcciones /n
 
  
 <img width="459" height="359" alt="image" src="https://github.com/user-attachments/assets/cb5d5aea-2994-4fae-8fce-4aad64aaeed2" />
+
+
+
 >Boceto de camara de analisis
 
 <img width="459" height="359" alt="image" src="https://github.com/user-attachments/assets/c68cba5d-caa3-4816-8882-ca15f2edc67b" />
+
+
+
 >Pantalla de carga
 
 <img width="465" height="362" alt="image" src="https://github.com/user-attachments/assets/8dd08701-d85e-4419-aadb-63586c7dcbb9" />
+
+
+
 >Pantalla de inicio
 
 
@@ -52,9 +63,15 @@ En esta etapa iniciamos la creacion de la aplicación en app inventor, un entorn
 
 
 <img width="886" height="490" alt="image" src="https://github.com/user-attachments/assets/eb97c853-0642-44a1-ac5b-634ab9e28c4d" />
+
+
+
 >Pantalla principal
 
 <img width="886" height="476" alt="image" src="https://github.com/user-attachments/assets/36b2394d-dc09-4ea5-96e0-e4befb1746c0" />
+
+
+
 >Muestra del codigo
 
 
@@ -63,7 +80,7 @@ En esta etapa iniciamos la creacion de la aplicación en app inventor, un entorn
 
 ## 🧰 Tecnologías Utilizadas
 
-Fase de planificación:
+
  Para el desarrollo del proyecto los recursos que necesitaremos serán pocos, pero esenciales, primeramente, necesitamos una placa de Arduino que contendrá toda la programación luego necesitaremos un sensor de señales EMC o electrodo que captan señales eléctricas a partir del movimiento muscular, un sensor bluetooth para conectar el Arduino al celular y por último el desarrollo de una aplicación en Android estudio con Java.
 Fase de desarrollo:
  En esta fase vamos a implementar la creación de la aplicación en Android estudio que conectará el dispositivo móvil a una placa de Arduino que a su vez recibirá señales EMC de unos electrodos.
