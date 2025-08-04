@@ -1,11 +1,10 @@
 # Arreglamecainador
 
-<img width="1396" height="570" alt="image" src="https://github.com/user-attachments/assets/8d72411d-eabe-4318-8178-2a771a294515" />
+<img width="448" height="936" alt="image" src="https://github.com/user-attachments/assets/37c35888-4baf-4f44-9f2c-b2b4136f005b" />
 
 
-![Versión](https://img.shields.io/badge/versión-1.0.5-blue)  
-![Estado](https://img.shields.io/badge/estado-en%20prototipo-yellow)  
-![Licencia](https://img.shields.io/badge/licencia-MIT-green)
+
+
 
 > Breve descripción del proyecto: ¿qué hace, para quién está hecho y por qué es importante?
 La solución que se propuso es la realización de una aplicación que permita el reconocimiento estructural de los puntos del cuerpo a través de la cámara del dispositivo móvil durante la realización física de la mecánica de tiro en el baloncesto, este reconocimiento permitirá que la app analice si la posición corporal de la persona es correcta a la hora de lanzar pero si no lo es la aplicación le dará tips y recomendaciones al usuario de como mejorar el movimiento mecánico del tiro en el baloncesto. Siguiendo las recomendaciones a través de la practica el usuario gradualmente mejorara su porcentaje de acierto en los tiros.
