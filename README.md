@@ -48,7 +48,8 @@ Una idea inicial de donde se intentaria realizar una lectura muscular para con e
 
  
 Segundo prototipo
-En esta etapa iniciamos la creacion de la aplicación en app inventor, un entorno de programacion diseñado para este tipo de actividades, en el avance del proyecto se tiene unas pantallas principales conectadas a partir de botones donde se puede navegar por la app, ademas de la inclusion y deteccion de la camara del celular en la pantalla “Practica” esto nos permitira conectar la aplicación con el modelo de uso Mediapipe para que se genere la captura de movimiento del cuerpo desde la camara del dispositivo y asi como paso siguiente crear los calculos de las lecturas de posicion para asi estipular las clases de cada una de las etapas de la mecanica del tiro y realizar las correcciones
+En esta etapa iniciamos la creacion de la aplicación en app inventor, un entorno de programacion diseñado para este tipo de actividades, en el avance del proyecto se tiene unas pantallas principales conectadas a partir de botones donde se puede navegar por la app, ademas de la inclusion y deteccion de la camara del celular en la pantalla “Practica” esto nos permitira conectar la aplicación con el modelo de uso Mediapipe para que se genere la captura de movimiento del cuerpo desde la camara del dispositivo y asi como paso siguiente crear los calculos de las lecturas de posicion para asi estipular las clases de cada una de las etapas de la mecanica del tiro y realizar las correcciones /n
+
  
 <img width="459" height="359" alt="image" src="https://github.com/user-attachments/assets/cb5d5aea-2994-4fae-8fce-4aad64aaeed2" />
 <img width="459" height="359" alt="image" src="https://github.com/user-attachments/assets/c68cba5d-caa3-4816-8882-ca15f2edc67b" />
