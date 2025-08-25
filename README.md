@@ -1,6 +1,8 @@
-# Mecanich ball
+# Mecanic ball
 
-<img width="448" height="936" alt="image" src="https://github.com/user-attachments/assets/37c35888-4baf-4f44-9f2c-b2b4136f005b" />
+
+<img width="430" height="975" alt="image" src="https://github.com/user-attachments/assets/53a4ed62-d304-41ae-8a34-381b9eb296ca" />
+
 
 
 
