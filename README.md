@@ -105,4 +105,4 @@ Una aplicación conectada a una manga que permitirá monitorear y corregir la me
 - Navegador moderno
 -Balon de baloncesto
   
-### Pasos
+
